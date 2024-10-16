@@ -387,6 +387,8 @@
 /api/.env
 /api/__swagger__/
 /api/_swagger_/
+/api/account
+/api/account
 /api/admin
 /api/api
 /api/api-browser/
@@ -440,6 +442,7 @@
 /api/swagger_doc.json
 /api/timelion/run
 /api/traces
+/api/users
 /api/v1
 /api/v1/
 /api/v1/alerts
@@ -1739,6 +1742,7 @@
 /wordpress/wp-config.php
 /wordpress/wp-content/debug.log
 /wp
+/wp-admi
 /wp-config-sample.php
 /wp-config.php
 /wp-includes/wp-db.php
