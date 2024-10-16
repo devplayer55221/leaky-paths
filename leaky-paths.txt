@@ -1742,7 +1742,7 @@
 /wordpress/wp-config.php
 /wordpress/wp-content/debug.log
 /wp
-/wp-admi
+/wp-admin
 /wp-config-sample.php
 /wp-config.php
 /wp-includes/wp-db.php
